@@ -17,7 +17,7 @@ lineNumbers: true
 
 # some information about the slides, markdown enabled
 info: |
-  ## Berry does Frontend
+  ## Berry theme explained
   Made with Slidev, Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
@@ -37,7 +37,7 @@ defaults:
 title: Berry does Frontend
 layout: cover
 ---
-# Berry does Frontend
+# Berry theme explained
 
 <style>
     h1 {
