@@ -1,0 +1,21 @@
+h1 {
+    color: rebeccapurple !important;
+}
+
+h2 {
+    color: teal !important;
+}
+
+.c-teal {
+    color: teal !important
+}
+
+
+.c-violet {
+    color: rebeccapurple !important;
+}
+
+strong {
+    font-weight: 700;
+    color: teal;
+}
